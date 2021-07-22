@@ -1,0 +1,12 @@
+.slider-bg{
+    background-color: #fceae8;
+    margin-top: 10px;
+}
+
+.panda-btn-buy-now{
+    background-color: #f175c8;
+    color:white;
+    padding:9px 25px;
+    border:none;
+    border-radius: 8px;
+}
